@@ -1,6 +1,9 @@
-# openjdk 1.8 alpine 3.6
-will be complated
+# openjdk
 
-Using;
-	docker run -it --entrypoint=bash --rm kutuni/openjdk:8-alpine
+Tags;
+	kutuni/openjdk:8-alpine
+	kutuni/openjdk:1.8-ubuntu
+	kutuni/openjdk:1.8-ubuntu
+	kutuni/openjdk:1.8-ubuntu-headless
+	
 
